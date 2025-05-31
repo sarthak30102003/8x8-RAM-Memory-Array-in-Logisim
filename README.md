@@ -57,6 +57,8 @@ This is a basic implementation of RAM which emulates how memory blocks work at t
 Sarthak Aggarwal  
 Electronics & Communication Engineering, DTU  
 Passionate about VLSI, Memory Design, and System Architecture
+🔗 [LinkedIn](https://www.linkedin.com/in/sarthak-aggarwal-486b60240/)  
+📧 [sarthakaggarwal30102003@gmail.com](mailto:sarthakaggarwal30102003@gmail.com)
 
 ---
 

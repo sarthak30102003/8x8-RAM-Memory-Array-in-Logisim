@@ -30,7 +30,7 @@ This is a basic implementation of RAM which emulates how memory blocks work at t
   - `DataOut[7:0]` → Read data from selected row
 - **Clocked** storage using edge-triggered flip-flops
 
-## 🐞 Known Issues
+## 🐞 Issues and Bugs Resolved
 
 - Address decoder initially had MSB/LSB bit order confusion — **fixed** in the current version.
 - Ensure the splitter is wired correctly: `Bit 0` must represent **LSB** of address.

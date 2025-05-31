@@ -44,7 +44,7 @@ This is a basic implementation of RAM which emulates how memory blocks work at t
 
 ## 📸 Screenshots
 
-![Memory Array Screenshot](./screenshots/mem_8x8_array.png)
+![Memory Array Screenshot](./8x8_memory_design/Design_Screenshot.png)
 
 ## 📚 Future Plans
 
